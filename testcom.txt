@@ -1,1 +1,4 @@
 testcommit
+text
+
+//comment conflictdemo
