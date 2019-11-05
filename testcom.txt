@@ -1,4 +1,8 @@
 testcommit
 text2
+
 made to master Brach
 //comment2 master
+
+text
+//comment conflictdemo
